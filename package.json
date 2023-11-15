@@ -43,12 +43,12 @@
   },
   "build": {
     "appId": "com.official-electron-vue.app",
-    "productName": "Electron Vue Nightly",
+    "productName": "Electron Vue",
     "copyright": "Copyright © 2022 ${author}",
     "publish": [
       {
         "provider": "github",
-        "owner": "Bible-Projects"
+        "owner": "smartlocker"
       }
     ],
     "nsis": {
